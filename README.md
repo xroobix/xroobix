@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **React and JavaScript**
 
-- 🔭 I’m working on **projects to add to my portfolio**
+- 🔭 I’m working on **React Projects**
 
-- 🥅 Right now my goal is **becoming a junior front-end developer**
+- 🥅 Right now my goal is **to become a Junior Front-End Developer**
 
-- ⚡ Fun fact **I am a big Pokémon fan**
+- ⚡ Fun fact **I'm a Big Pokémon Fan**
 
 ### 🌐 You can reach me on
 
