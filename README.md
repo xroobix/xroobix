@@ -8,7 +8,6 @@
 
 - 🥅 Right now my goal is **to become a Junior Front-End Developer**
 
-- ⚡ Fun fact **I'm a Big Pokémon Fan**
 
 ### 🌐 You can reach me on
 
