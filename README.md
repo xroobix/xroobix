@@ -1,10 +1,3 @@
-### Simplicity is the soul of efficiency.
-
-* * *
-
-- 🥅 Right now my goal is **to become a Junior Full-Stack Developer**
-
-
 ### 🌐 You can reach me on
 
 <p align="left">
